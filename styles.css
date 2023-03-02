@@ -1,0 +1,13 @@
+body{
+    background: url(image.jpg);
+    background-position: top;
+     background-size: cover;
+}
+h1{
+    width: 150px;
+    height: 170px;
+    color:yellow;
+    margin-top: 250px;
+    margin-left: 500px;
+    margin-right: 500px
+}
